@@ -1,5 +1,8 @@
 module.exports = () => {
   return {
+    seo: {
+      enabled: true,
+    },
     ckeditor: {
       enabled: true,
       config:{
