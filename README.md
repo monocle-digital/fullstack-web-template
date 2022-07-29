@@ -3,7 +3,7 @@
 ## Frontend
 The frontend package is a next js project using typescript
 ### Features
-- [ ] SEO Integration
+- [x] SEO Integration
 - [ ] Google Analytics Integration
 - [x] GraphQL
 

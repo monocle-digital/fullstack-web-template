@@ -1,1 +1,2 @@
-export * from './get-articles';
+export * from './article';
+export * from './seo';
