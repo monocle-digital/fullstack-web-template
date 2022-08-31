@@ -16,6 +16,7 @@ The cms package is strapi headless cms with ckeditor plugin already installed
 - [x] GraphQL
   > graphql playground  
   > http://localhost:1337/graphql
+- [ ] Add [Typescript support](https://docs.strapi.io/developer-docs/latest/development/typescript.html#start-developing-in-typescript)
 
 ### Roles and Permissions
 By default all data requires permissions to be read.  
